@@ -20,13 +20,14 @@ The goal is to assess your ability to:
 # Folder Structure
 
 You are provided with the following folder structure:
-|- node module
-|- public
-|- src
-|-- assets
-|-- app.tsx
-|-- index.css
-|-- main.tsx
+
+- |- node module
+- |- public
+- |- src
+- |-- assets
+- |-- app.tsx
+- |-- index.css
+- |-- main.tsx
 
 etc.
 
